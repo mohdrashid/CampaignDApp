@@ -1,0 +1,26 @@
+{
+  "name": "campaigndapp",
+  "version": "1.0.0",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammed Rashid",
+  "license": "ISC",
+  "dependencies": {
+    "truffle-default-builder": "^2.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohdrashid/CampaignDApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mohdrashid/CampaignDApp/issues"
+  },
+  "homepage": "https://github.com/mohdrashid/CampaignDApp#readme",
+  "description": ""
+}
